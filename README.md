@@ -1,4 +1,4 @@
-# Plex-Rating-Sync
+# Plex Rating Sync
 
 Plex-Rating-Sync is a Python script that synchronizes ratings between Plex and your music files' tags. It supports two-way synchronization with a preference for Plex ratings, ensuring your music library stays consistently rated across different platforms.
 
