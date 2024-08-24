@@ -2,6 +2,8 @@
 
 Plex-Rating-Sync is a Python script that synchronizes ratings between Plex and your music files' tags. It supports two-way synchronization with a preference for Plex ratings, ensuring your music library stays consistently rated across different platforms.
 
+If you found this script useful, you can [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-yellow.svg)](https://www.buymeacoffee.com/Mythic82)
+
 ## ⚠️ Caution
 
 **Use this script at your own risk. Always backup your data before running it.**
