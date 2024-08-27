@@ -10,7 +10,6 @@ If you found this script useful, you can [![Buy Me A Coffee](https://img.shields
 
 - This script modifies both your Plex database and music file tags.
 - It's strongly recommended to use the test mode first to ensure the script behaves as expected in your environment.
-- Review the results carefully before applying any changes to your library.
 
 ## How It Works
 
