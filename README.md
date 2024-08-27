@@ -9,7 +9,6 @@ If you found this script useful, you can [![Buy Me A Coffee](https://img.shields
 **Use this script at your own risk. Always backup your data before running it.**
 
 - This script modifies both your Plex database and music file tags.
-- While designed to be safe, unforeseen issues could potentially affect your music library.
 - It's strongly recommended to use the test mode first to ensure the script behaves as expected in your environment.
 - Review the results carefully before applying any changes to your library.
 
